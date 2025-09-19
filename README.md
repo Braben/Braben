@@ -13,9 +13,9 @@
 
 ---
 
-###  Hi, I’m Benjamin Lamptey 
 
-## 💻 Headline  
+# 💻  Hi, I’m Benjamin Lamptey 
+
 **Full Stack Developer | React & Node.js | AI Enthusiast | Tech Mentor**  
 
 ---
