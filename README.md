@@ -16,12 +16,12 @@
 
 #  Hi, I’m Benjamin Lamptey 
 
-**Full Stack Developer | React & Node.js | AI Enthusiast | Tech Mentor**  
+**Full Stack Developer | React & Node.js | Python | AI Enthusiast | Tech Mentor**  
 
 ---
 
 ##  About Me  
-I’m an emerging **Full Stack Developer** passionate about building impactful digital solutions with **React, Node.js, and modern databases** (PostgreSQL & MongoDB).  
+I’m an emerging **Full Stack Developer** passionate about building impactful digital solutions with **React, Node.js, Python for Data Science (ML/DL) and modern databases** (PostgreSQL & MongoDB).  
 I enjoy turning ideas into user-friendly applications and collaborating with teams to solve real-world problems.  
 Beyond coding, I mentor and teach young people, helping them take their first steps into the world of technology.  
 
@@ -32,8 +32,12 @@ Beyond coding, I mentor and teach young people, helping them take their first st
 
 - **Professional Foundations Certificate** – 2025  
 
-- **Software Engineering** - 2026
-Ongoing project-based learning and hands-on Bootcamp in **Full Stack Development** (React, Node.js, Databases).
+- **Software Engineering** - 2025
+
+- **Prodev Frontend Engineer (React/ReactNative/NextJS)** - 2026
+
+- **Data Science and AI Engineering**
+  Ongoing project-based learning and hands-on Bootcamp
 
 ---
 
@@ -48,7 +52,13 @@ Ongoing project-based learning and hands-on Bootcamp in **Full Stack Development
   Full-stack project using React (frontend) and Node.js + MongoDB (backend), with authentication and role-based access.  
 
 - **Event & Venue Management App**  
-  React + Redux Toolkit app for managing events, venues, and reviews with file uploads (Cloudinary).  
+  React + Redux Toolkit app for managing events, venues, and reviews with file uploads (Cloudinary).
+
+- **Web Crawler Chatbot AI**
+  Python + FastAPI (RAG AI)app for crawling websites to get insights.
+
+- **FarmTrack**
+  This is a poultry farm management app for farmers.
 
 ---
 
